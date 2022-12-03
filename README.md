@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeodorTeodorov
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently studying Software Engineering in Software University - Sofia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
